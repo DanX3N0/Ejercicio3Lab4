@@ -1,3 +1,4 @@
+
 public class PilaEstatica {
    
    public Integer tamañoPorDefecto = 5;
@@ -36,16 +37,6 @@ public class PilaEstatica {
          return true;
       return false;
    }
-
-
-
-
-
-
-
-
-
-
 
 }
 
